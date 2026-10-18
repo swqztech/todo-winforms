@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>墨迹清单</AssemblyName>
+    <RootNamespace>MojiTodo</RootNamespace>
+    <Version>0.1.0</Version>
+    <Product>墨迹清单</Product>
+    <Description>本地待办清单（WinForms）</Description>
+  </PropertyGroup>
+
+</Project>
